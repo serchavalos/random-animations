@@ -1,0 +1,12 @@
+{
+  "name": "recreating-google-logo",
+  "version": "0.0.1",
+  "scripts": {
+    "preinstall": "npm install -g gulp"
+  },
+  "devDependencies": {
+    "gulp": "3.9.*",
+    "gulp-sass": "2.1.*",
+    "gulp-uglify": "1.5.*"
+  }
+}
